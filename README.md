@@ -13,3 +13,6 @@ Temel Özellikler:
 4- Analog Çıkışlar: MaestroTech, 4-20 mA ve 0-10 Volt hassas analog çıkış sunar. Bu çıkışlar, endüstriyel süreçleri veya cihazları hassas bir şekilde kontrol etmek için kullanılabilir. Hassas işlem gereksinimlerinizi karşılamak için mükemmel bir seçenektir.
 
 5- Digital Girişler: MaestroTech, 6 adet yüksek hızlı dijital giriş, dijital sensörler, anahtarlar ve tetikleyicilerle etkileşimde bulunmak için tasarlanmıştır. Bu girişler, hızlı tepki süreleri ve güçlü giriş koruması ile donatılmıştır. Endüstriyel otomasyon uygulamalarınız için esneklik sağlar.
+
+Kartın 3D görüntüsü; 
+![plc](https://github.com/memetteminarslan/Tianbo_Relay_System_LORA_ESP32_C3/assets/74721347/ad1d06c6-95f8-4090-8aad-920058664429)
