@@ -449,7 +449,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "0001_Industrial_out_in_RS485.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
